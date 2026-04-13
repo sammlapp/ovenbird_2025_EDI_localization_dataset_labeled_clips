@@ -6,9 +6,9 @@ Affiliations: [1] University of Pittsburgh, [2] University of Alberta borial avi
 
 Contact: Sam Lapp, sam.lapp@pitt.edu
 
-Version number: v1.2
+Version number: v2.0
 
-Date updated: June 26 2025
+Date updated: April 13 2026
 
 DOI: https://doi.org/10.6073/pasta/bd39cd5d5c8fcaad64d402e7c20d12b1
 
@@ -188,6 +188,13 @@ We performed an automated error-rejection post processing procedure (4_automated
 
 ### Manual review:
 We reviewed clips to ensure Ovenbird song was present and to apply an individual bird label to each song. We manually viewed spectrorams and listened to audio at 1/4 speed to facilitate individual identification. Two reviewers independently reviewed each clip. Annotator agreement rate was 98%. We then resolved conflicts by fixing those due to typing errors and discussing remaining conflicts. 
+
+### Change log
+
+#### V1.3 to v2.0: 
+Updated Labels in April 2026
+After comparing spatial clusters with song-based labels, we revised the labels for 6 of 717 singing events, creating two new individual labels (bringing the total number of individuals from 45 to 47).
+We also marked two audio clips as no_song because during our additional review process we noted these clips did not contain Ovenbird songs. 
 
 ## Observational data
 None
