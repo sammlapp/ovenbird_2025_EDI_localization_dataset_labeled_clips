@@ -194,7 +194,7 @@ We reviewed clips to ensure Ovenbird song was present and to apply an individual
 #### V1.3 to v2.0: 
 Updated Labels in April 2026
 After comparing spatial clusters with song-based labels, we revised the labels for 6 of 717 singing events, creating two new individual labels (bringing the total number of individuals from 45 to 47).
-We also marked two audio clips as no_song because during our additional review process we noted these clips did not contain Ovenbird songs. 
+We also removed two audio clips, 1251_oven13.mp3 and 1253_oven13.mp3, because during our additional review process we noted these clips did not contain Ovenbird songs. 
 
 ## Observational data
 None
